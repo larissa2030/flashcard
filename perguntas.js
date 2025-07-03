@@ -1,13 +1,13 @@
 criaCartao(
-    'until down',
-    'quem e sam?',
+    'detroit become human',
+    'quem e kara?',
     'E uma das protagonistas do jogo.'
 )
 
 criaCartao(
-    'stardew valley',
-    'Qual o episodio favorito do senhor lerys?',
-    'A sereia do lago.'
+    'detroit become human',
+    'Qual o pai de alice?',
+    'toddy.'
 )
 
 criaCartao(
@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'fnaf',
-    'Quem e o criador?',
-    'Scott.'
+    'detroiot become human',
+    'Quem e o criador dos androides?',
+    'kamski.'
 )
